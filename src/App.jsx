@@ -30,7 +30,7 @@ function App() {
         threshold={0.1}
         rootMargin="-100px"
         textAlign="center"
-      /><p className='main-subtitle'>Salut</p>
+      />
       </div>
   )
 }

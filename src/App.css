@@ -23,3 +23,9 @@
   font-family: Satoshi-Black, sans-serif;
   color: #000000;
 }
+
+@media (max-width:480px)  {
+  .main-title {
+    font-size: 3rem;
+  }
+}

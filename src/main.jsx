@@ -5,6 +5,8 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    <link rel='icon' href='src/assets/favicon.ico' />
+    <title>Waves Studio</title>
     <App />
   </StrictMode>,
 )
