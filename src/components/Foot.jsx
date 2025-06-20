@@ -5,7 +5,7 @@ export default function Foot() {
   return (
     <div className="foot">
         <div class="foot1">
-          <h1>Waves Studio</h1>
+          <h1>Waves Studio.</h1>
           <h3>This website is still under construction, check back later for more content!</h3>
         </div>
         <div class="foot2">
